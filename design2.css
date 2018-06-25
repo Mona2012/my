@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+  
+body{
+    font-family: 'Lato', sans-serif;
+    background:url("https://images.pexels.com/photos/5412/water-blue-ocean.jpg?auto=compress&cs=tinysrgb&h=650&w=940") no-repeat;
+    background-size:100% 150%;
+}
+
+.box{
+    width:300px;
+    height:490px;
+    margin:auto;
+    background-color:white;
+    padding:40px;
+    margin-top: 50px;
+    border-radius:4px;
+    
+}
+.fb{
+    display:inline;
+    
+}
+.icon{
+    color:#10109c;
+}
+.facebook{
+    text-decoration: none;
+    padding-left: 10px;
+    color:#061aa9f5;
+    font-size: 14px;
+}
+.slash{
+    padding-left: 40px;
+}
+.google{
+    padding-left: 45px;
+    height:10px;
+    width:10px;
+
+}
+.GOOGLE{
+    padding-left: 17px;
+    text-decoration: none;
+    color:#4f97e2;
+    font-size: 14px;
+}
+.heading{
+    padding-left: 100px;
+    font-size: 14px;
+}
+
+
+.just{
+    position: relative;
+}
+.user{
+    position: absolute;top:9px; left:20px;
+    color:#b9b7b7;
+}
+.text{
+    width: 236px;
+    height: 29px;
+    padding-left: 56px;
+    color:#b9b7b7;
+    
+}
+
+p {
+    overflow: hidden;
+    text-align: center;
+   }
+   p:before,
+   p:after {
+    background-color: #d0caca;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+   }
+   p:before {
+    right: 0.5em;
+    margin-left: -50%;
+    
+   }
+   p:after {
+    left: 0.5em;
+    margin-right: -50%;
+     }
+
+     .lastname{
+         position:relative;
+     }
+     .circle{
+        position: absolute;top:18px; left:20px;
+        color:#b9b7b7;
+    }
+    .textbox{
+    width: 236px;
+    height: 29px;
+    padding-left: 56px;
+    margin-top:10px;
+    color:#b9b7b7;
+    
+    }
+    .email{
+        position:relative;
+
+    }
+    .mail{
+        position: absolute;top:18px; left:20px;
+        color:#b9b7b7;
+    }
+    .thirdbox{
+        width: 236px;
+    height: 29px;
+    padding-left: 56px;
+    margin-top:10px;
+    color:#b9b7b7;
+    }
+    .password{
+        position:relative;
+    }
+    .pass{
+        position: absolute;top:18px; left:20px;
+        color:#b9b7b7;
+    
+    }
+    .forthbox{
+        width: 236px;
+    height: 29px;
+    padding-left: 56px;
+    margin-top:10px;
+    color:#b9b7b7;
+    }
+    .cp{
+        position:relative;
+    }
+    .pas{
+        position: absolute;top:18px; left:20px;
+        color:#b9b7b7;
+    }
+    .fifthbox{
+        width: 236px;
+    height: 29px;
+    padding-left: 56px;
+    margin-top:10px;
+    color:#b9b7b7;
+    }
+    .checkbox{
+        margin-top: 10px;
+        zoom:1.5;
+    }
+    .inline{
+        display:inline-block;
+        margin-bottom: -8px;
+    }
+    .place{
+        font-size:14px;
+        float:right;
+        color:#565252;
+    }
+    
+    
+    .sort{
+        font-size:11px;
+        margin-bottom: 0px;
+        color:#a29f9f;
+        padding-left: 6px;
+    }
+    .shift{
+        text-align: left;
+        font-size:12px;
+        padding-left: 6px;
+        color: #158ef5;
+    }
+    .register{
+     width: 305px;
+    height: 48px;
+    border-radius: 4px;
+    border: none;
+    background-color: #02c172;
+    color: white;
+    margin-top:10px;
+    }
+    
+    .put{
+        display:inline-block;
+        padding-top: 20px;
+    }
+    .account{
+        font-size:14px;
+    }
+    .login{
+        background-color: white;
+        color: #158ef5;
+        border: 1px solid #158ef5;
+        height: 29px;
+       width: 109px;
+       border-radius: 2px;
+        margin-left: 33px;
+}
+    
+    
+        
+    
+      
+      
+
+        
+
+    
+
+     

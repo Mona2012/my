@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    overflow-y:hidden;
+    font-family: 'Roboto', sans-serif !important; 
+}
+.logo{
+    margin-left: 40%;
+    margin-top: 15%;
+}
+.box{
+    margin-left: 40%;
+    width: 274px;
+    height: 25px;
+}
+
+.list li{
+display:inline;
+padding:10px;
+color:black;
+}
+#menu{
+    margin: 20px 20px 20px 20px;
+}
+.right{
+   
+    float:right;
+}
+.gs{
+    margin-left: 41%;
+    margin-top: 1%;
+}
+.links li{
+    display:inline;
+    padding:10px;
+    color:black;
+} 
+.india{
+    margin-left: 4%;
+    color:black;
+}
+.footer-links{
+    height:126px;
+}
+.ryt{
+    float:right;
+}
+.lft{
+    float: left;
+    
+}
+.bottom{
+    position: absolute;
+    bottom:-5%;
+    width:100%;
+}
+.color{
+    color:black;
+}
+.button1{
+    background: white;
+    border: 4px dashed darkblue;
+
+}
+.button2:hover{
+    background-color:green;
+    color:white;
+
+}
+.button0{
+    border-radius:20px;
+}
+.container{
+    display:block;
+    position:relative;
+}
+
+    
+
+
+
